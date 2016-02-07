@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZeroConf</string>
+
+    <string name="property"><![CDATA[<b>]]>%1$s:<![CDATA[</b>]]> %2$s</string>
+</resources>
